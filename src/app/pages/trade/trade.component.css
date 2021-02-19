@@ -1,0 +1,49 @@
+#price{
+    font-weight: bold;
+    font-size: 22px;
+}
+
+.increase{
+    color: lightgreen;
+}
+
+
+.first-float{
+    float: right;
+}
+
+
+.margin-right{
+    margin-right: 165px;
+}
+
+
+.margin-rightt{
+    float: right;
+}
+
+.margin-center{
+    text-align: center;
+}
+
+.left-box{
+    padding: 5px;
+    float: left;
+    border: red;
+
+}
+
+.right-box{
+    padding: 5px;
+    float: right;
+    border: red;
+    
+}
+
+#bold{
+    font-weight: bolder;
+}
+
+.example-chip-list {
+    width: 100%;
+  }
