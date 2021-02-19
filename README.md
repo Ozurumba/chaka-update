@@ -1,6 +1,5 @@
-# Album App
+# Chaka App
 
-A small app using Angular to demonstrate the routing.
 
 ## Angular Concepts
 In this demo, following concepts are used.
